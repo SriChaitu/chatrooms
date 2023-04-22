@@ -34,6 +34,14 @@ This application uses the following dependencies:
 4. Messages will be displayed in the chatroom with the username, message content, and timestamp.
 5. Profanity in messages will be automatically detected and censored.
 
+## Screenshots
+
+![WhatsApp Image 2023-04-22 at 17 40 42](https://user-images.githubusercontent.com/95231920/233784001-fae58e2a-ed78-4f13-b283-916a2eebb59a.jpeg)
+![WhatsApp Image 2023-04-22 at 17 40 41](https://user-images.githubusercontent.com/95231920/233784000-723e4fd4-9620-4af5-a9ed-177e1eb71eca.jpeg)
+
+
+
+
 ## Credits
 
 This app was developed by **Sri Chaitanya Kattamuri** as a part of a Flutter project. It utilizes the Flutter framework and various open-source packages.
@@ -51,4 +59,3 @@ If you would like to contribute to this project, please follow the steps below:
 
 This application is open-source. You are free to use, modify, and distribute this application for personal or commercial purposes. However, please provide appropriate credit to the original author.
 
-#screenshots
