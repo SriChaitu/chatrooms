@@ -5,7 +5,6 @@ This is a Flutter application for a chatroom feature focused on arts. Users can 
 ## Features
 
 - Send and receive messages in real-time.
-- Profanity filter to detect and censor messages containing profanity.
 - Chat history sorted by time.
 - User-friendly UI with a dark-themed interface.
 
@@ -23,7 +22,6 @@ This application uses the following dependencies:
 
 - cloud_firestore: ^2.2.2: A Flutter plugin for connecting to Firestore, a NoSQL document database by Firebase.
 - flutter/material.dart: ^2.8.0: The official Material Design implementation for Flutter.
-- profanity_filter: ^1.0.3: A Flutter plugin for detecting and censoring profanity in text.
 - widgets/navbar.dart: A custom widget for the app's navigation drawer.
 
 ## Usage
@@ -32,13 +30,13 @@ This application uses the following dependencies:
 2. Enter your messages in the text field at the bottom of the screen.
 3. Press the send button to send your message.
 4. Messages will be displayed in the chatroom with the username, message content, and timestamp.
-5. Profanity in messages will be automatically detected and censored.
 
-## Screenshots
 
-![WhatsApp Image 2023-04-22 at 17 40 42](https://user-images.githubusercontent.com/95231920/233784001-fae58e2a-ed78-4f13-b283-916a2eebb59a.jpeg)
-![WhatsApp Image 2023-04-22 at 17 40 41](https://user-images.githubusercontent.com/95231920/233784000-723e4fd4-9620-4af5-a9ed-177e1eb71eca.jpeg)
 
+## Demo Video
+
+
+https://github.com/SriChaitu/chatrooms/assets/95231920/6a9ccdf6-c71b-46b8-9fd7-d61e826040de
 
 
 
